@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+xlsxwriter
+joblib
+scapy
+xgboost
+scikit-learn
+altair
+rich
+requests
+python-dotenv
